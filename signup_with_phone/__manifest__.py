@@ -2,7 +2,8 @@
     'name': 'Signup With Mobile Number',
     'category': 'Website',
     'summary': 'Signup With Mobile (If not Email).',
-    'website': '',
+    'author': 'Aktiv Software',
+    'website': 'www.aktivsoftware.com',
     'version': '1.0',
     'description': """
     
