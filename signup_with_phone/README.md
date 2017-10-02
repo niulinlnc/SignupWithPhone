@@ -4,9 +4,15 @@ Installation
 ============
 Install the Application => Apps -> Signup With Mobile Number(Technical Name:signup_with_phone)
 
-Install Python Library 
-======================
-sudo pip install phonenumbers
+Installation
+============
+
+To install this module, you need to have installed.
+
+On Ubuntu::
+
+  sudo pip install phonenumbers
+
 
 Version
 ========
