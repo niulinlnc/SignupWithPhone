@@ -2,7 +2,8 @@
     'name': 'Signup with Mobile Number',
     'category': 'Website',
     'summary': 'Signup with Mobile(If not Email).',
-    'website': '',
+    'author': 'Aktiv Software',
+    'website': 'www.aktivsoftware.com',
     'version': '1.0',
     'description': """
     This module can create users from the Odoo main screen as an external user and signup with the same credentials. 
